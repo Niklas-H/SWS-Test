@@ -1,3 +1,3 @@
 <script type="text/javascript">
-  document.write("<h1>Raus mit dem Alten - rein mit dem Neuen!</h1>");
+  document.write("<h1>Test. Servus Bob</h1>");
 </script>
